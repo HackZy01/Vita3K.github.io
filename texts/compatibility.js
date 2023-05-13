@@ -291,12 +291,12 @@ texts.push([
 // Polish (Translation provided by circl, corrected by kacek)
 texts.push([
 	"Nieznane", // 0
-	"Niestabilny", // 1
-	"Błędy", // 2
-	"Wolne", // 3
+	"Niestabilne", // 1
+	"Pełne błędów", // 2
+	"Powolne", // 3
 	"Grywalne", // 4
-	"Nic", // 5
-	"Bootowalny", // 6
+	"Nie uruchamia się", // 5
+	"Uruchamia się", // 6
 	"Intro", // 7
 	"Menu", // 8
 	"W grze -", // 9
@@ -309,24 +309,24 @@ texts.push([
 	"Homebrew, które mają błędy i awarie.", // 16
 	"Homebrew, które działają z niską ilością klatek na sekundę", // 17
 	"Homebrew, które działają perfekcyjnie.", // 18
-	"Nazwa gry", // 19
+	"Tytuł gry", // 19
 	"Status", // 20
-	"PlayStation and PS Vita są znakami towarowymi Sony Interactive Entertainment Inc.", // 21
-	"Emulator nie jest powiązany z firmą Sony, nie jest przez nią wspierany ani nie korzysta z poufnych materiałów należących do firmy Sony.", // 22
-	"Logo stworzone przez", // 23
+	"PlayStation i PS Vita są znakami towarowymi Sony Interactive Entertainment Inc.", // 21
+	"Nasz emulator nie jest powiązany z firmą Sony, nie jest przez nią wspierany ani nie korzysta z poufnych materiałów należących do niej.", // 22
+	"Nasze logo zostało stworzone przez", // 23
 	"Szukaj", // 24
-	"Wybierz język", // 25
+	"Wybierz swój język", // 25
 	"Lista kompatybilnośći", // 26
-	"Gry, które w ogóle się nie uruchamiają, nie wyświetlają początkowego czarnego ekranu z licznikiem FPS.", // 27
+	"Gry, które w ogóle się nie uruchamiają", // 27
 	"Gry, które uruchamiają się, ale wyświetlają tylko czarny ekran z licznikiem FPS.", // 28
-	"Gry, które wyświetlają dowolny obraz na ekranie, ale nie docierają do menu.", // 29
-	"Gry, które działają poprawnie, ale nie mogą wejść do gry.", // 30
-	"Gry, które grają w grze, ale mają poważne problemy, które uniemożliwiają kontynuowanie gry.", // 31
-	"Gry, które grają, ale mają wady, które powodują, że gra jest nie do odzyskania lub działa nieprawidłowo.", // 32
-	"Gry, które można grać od początku do końca, z grywalną wydajnością i brakiem zakłóceń gry.", // 33
-	"Emulator przechodzi obecnie wielkie zmiany w swoim backendzie, które znacznie poprawiają kompatybilność z grami. \
+	"Gry, które wyświetlają dowolny obraz na ekranie, ale nie docierają do menu głównego", // 29
+	"Gry, które wyświetlają tylko menu główne", // 30
+	"Gry, które grają w grze, ale mają poważne problemy, które uniemożliwiają ukończenie gry", // 31
+	"Gry, które grają, ale mają wady, które powodują, że gra nie działa poprawnie", // 32
+	"Gry, które można grać od początku do końca, z dobrą wydajnością.", // 33
+	"Emulator przechodzi obecnie wielkie zmiany w swoim backend'zie, które znacznie poprawiają kompatybilność z grami. \
 	Lista kompatybilności nie odzwierciedla stanu emulatora i wszystkich zainteresowanych emulatorem zachęcamy do ponownego \
-	przetestowania swoich gier z najnowszymi buildami emulatora co kilka tygodni w celu aktualizacji raportów kompatybilności." // 34 (translated using DeepL)
+	przetestowania gier z nowszą wersją emulatora co kilka tygodni w celu aktualizacji listy kompatybilności." // 34 (translated using DeepL)
 ])
 
 // Brazilian Portuguese (Translation provided by mjsf12)
